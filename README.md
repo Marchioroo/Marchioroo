@@ -1,8 +1,8 @@
 ### Oi pessoal, sou o Marchioro, tudo bem? 👋 😁
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Jr II
-- 🌱 Estudando JavaScript e Inglês
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando JavaScript/React e Inglês
+- 😄 Futuro Dev FullStack
 
 <div align="center">
   <div align="center">
@@ -11,4 +11,4 @@
     </div>
 
 
-![snake gif](https://github.com/Marchioroo/Marchioroo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Marchioroo/formandodev/blob/output/github-contribution-grid-snake.svg)
