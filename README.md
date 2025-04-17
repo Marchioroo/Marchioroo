@@ -1,7 +1,7 @@
 ### Oi pessoal, sou o Marchioro, tudo bem? 👋 😁
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Pleno 1
-- 🌱 Estudando Vue.js | Nuxt.js | Node.js | Express
+- 🌱 Desenvolvedor Vue.js | Nuxt.js | Node.js | Express
 - 😄 Futuro Dev FullStack
 
 <div align="center">
