@@ -135,7 +135,7 @@ Sou Leonardo Marchioro, tenho 23 anos e sou estagiário na área de front-end, c
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://cards-lyart-kappa.vercel.app/api?username=marchioroo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://cards-marchioroos-projects.vercel.app?username=marchioroo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
